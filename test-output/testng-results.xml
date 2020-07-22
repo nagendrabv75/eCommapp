@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18085" started-at="2020-07-20T02:52:42Z" finished-at="2020-07-20T02:53:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18085" started-at="2020-07-20T02:52:42Z" finished-at="2020-07-20T02:53:00Z">
+      <class name="com.ecommappv5.testCases.TC_LoginPage_001">
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:com.ecommappv5.testCases.TC_LoginPage_001@55a561cf]" name="setupMethod" is-config="true" duration-ms="1414" started-at="2020-07-20T02:52:42Z" finished-at="2020-07-20T02:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="loginPageMethod()[pri:0, instance:com.ecommappv5.testCases.TC_LoginPage_001@55a561cf]" name="loginPageMethod" duration-ms="16552" started-at="2020-07-20T02:52:44Z" finished-at="2020-07-20T02:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageMethod -->
+        <test-method status="PASS" signature="closeDown()[pri:0, instance:com.ecommappv5.testCases.TC_LoginPage_001@55a561cf]" name="closeDown" is-config="true" duration-ms="86" started-at="2020-07-20T02:53:00Z" finished-at="2020-07-20T02:53:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- com.ecommappv5.testCases.TC_LoginPage_001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
