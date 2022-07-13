@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="19598" started-at="2020-07-22T08:35:45Z" finished-at="2020-07-22T08:36:05Z">
+  <suite started-at="2022-07-13T05:41:29Z" name="Suite" finished-at="2022-07-13T05:43:40Z" duration-ms="130614">
     <groups>
     </groups>
-    <test name="Test" duration-ms="19598" started-at="2020-07-22T08:35:45Z" finished-at="2020-07-22T08:36:05Z">
-      <class name="com.ecommappv5.testCases.TC_LoginPage_001">
-        <test-method status="PASS" signature="setupMethod()[pri:0, instance:com.ecommappv5.testCases.TC_LoginPage_001@32464a14]" name="setupMethod" is-config="true" duration-ms="2020" started-at="2020-07-22T08:35:45Z" finished-at="2020-07-22T08:35:47Z">
+    <test started-at="2022-07-13T05:41:29Z" name="Test" finished-at="2022-07-13T05:43:40Z" duration-ms="130614">
+      <class name="com.DHFAPIV4.testCases.EnergyV4">
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:com.DHFAPIV4.testCases.EnergyV4@4b34fff9]" started-at="2022-07-13T05:41:29Z" name="setupMethod" finished-at="2022-07-13T05:41:32Z" duration-ms="2502" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupMethod -->
-        <test-method status="PASS" signature="loginPageMethod()[pri:0, instance:com.ecommappv5.testCases.TC_LoginPage_001@32464a14]" name="loginPageMethod" duration-ms="17466" started-at="2020-07-22T08:35:47Z" finished-at="2020-07-22T08:36:05Z">
+        <test-method signature="loginPageMethod()[pri:1, instance:com.DHFAPIV4.testCases.EnergyV4@4b34fff9]" started-at="2022-07-13T05:41:32Z" name="loginPageMethod" finished-at="2022-07-13T05:41:49Z" duration-ms="17692" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageMethod -->
-        <test-method status="PASS" signature="closeDown()[pri:0, instance:com.ecommappv5.testCases.TC_LoginPage_001@32464a14]" name="closeDown" is-config="true" duration-ms="92" started-at="2020-07-22T08:36:05Z" finished-at="2020-07-22T08:36:05Z">
+        <test-method signature="selectScenarios()[pri:2, instance:com.DHFAPIV4.testCases.EnergyV4@4b34fff9]" started-at="2022-07-13T05:41:49Z" name="selectScenarios" finished-at="2022-07-13T05:43:39Z" duration-ms="110148" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- closeDown -->
-      </class> <!-- com.ecommappv5.testCases.TC_LoginPage_001 -->
+        </test-method> <!-- selectScenarios -->
+        <test-method is-config="true" signature="closeWindow()[pri:0, instance:com.DHFAPIV4.testCases.EnergyV4@4b34fff9]" started-at="2022-07-13T05:43:39Z" name="closeWindow" finished-at="2022-07-13T05:43:40Z" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+      </class> <!-- com.DHFAPIV4.testCases.EnergyV4 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

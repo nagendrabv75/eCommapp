@@ -48,3 +48,1635 @@
 2020-07-22 18:35:57,862 [main] INFO eCommAppV5 - Password provided
 2020-07-22 18:36:03,189 [main] INFO eCommAppV5 - Successfully logged in
 2020-07-22 18:36:05,116 [main] INFO eCommAppV5 - Successfully Logged out
+2022-07-11 14:43:46,079 [main] INFO eCommAppV5 - Launched the Page
+2022-07-11 14:46:16,034 [main] INFO eCommAppV5 - Launched the Page
+2022-07-11 14:51:59,968 [main] INFO eCommAppV5 - Launched the Page
+2022-07-11 15:31:27,043 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 15:31:32,288 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 15:31:32,503 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 15:31:32,554 [main] INFO DHFAPIV4 - Successfully logged in
+2022-07-11 15:32:07,291 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 15:32:12,513 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 15:32:12,741 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 15:35:18,535 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 15:35:23,743 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 15:35:28,934 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 15:35:34,366 [main] INFO DHFAPIV4 - Successfully logged in
+2022-07-11 15:39:13,290 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 15:39:18,541 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 15:39:23,741 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 15:39:29,267 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 15:39:35,329 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 15:39:40,340 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 15:48:32,518 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 15:48:37,732 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 15:48:42,923 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 15:48:48,308 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 15:48:54,298 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 15:48:59,300 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 15:49:57,219 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 15:50:02,426 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 15:50:07,635 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 15:50:13,042 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 15:50:19,062 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 15:50:24,067 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 15:51:15,863 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 15:51:21,064 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 15:51:26,268 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 15:51:31,642 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 15:51:37,678 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 15:51:47,680 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 15:58:39,054 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 15:58:44,274 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 15:58:49,480 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 15:58:54,959 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 15:59:01,079 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 15:59:06,094 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 16:01:11,564 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 16:01:16,765 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 16:01:21,966 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 16:01:27,398 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 16:01:33,439 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 16:01:38,451 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 16:01:48,494 [main] INFO DHFAPIV4 - Launched CTS 
+2022-07-11 16:16:18,301 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 16:16:23,495 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 16:16:28,682 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 16:16:34,182 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 16:16:40,342 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 16:16:45,356 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 16:18:28,051 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 16:18:33,258 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 16:18:38,449 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 16:18:43,898 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 16:18:50,064 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 16:18:55,067 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 16:19:57,189 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 16:20:02,396 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 16:20:07,600 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 16:20:13,068 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 16:20:19,238 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 16:20:24,245 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 16:20:34,276 [main] INFO DHFAPIV4 - Launched CTS
+2022-07-11 16:43:57,919 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 16:44:03,195 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 16:44:08,390 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 16:44:13,768 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 16:44:19,800 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 16:44:24,804 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 16:44:34,826 [main] INFO DHFAPIV4 - Launched CTS
+2022-07-11 16:52:06,816 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 16:52:12,007 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 16:52:17,190 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 16:52:22,631 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 16:52:28,691 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 16:52:33,697 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 16:52:43,733 [main] INFO DHFAPIV4 - Launched CTS
+2022-07-11 16:52:48,880 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-11 16:54:38,211 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 16:54:43,414 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 16:54:48,606 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 16:54:54,002 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 16:55:00,101 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 16:55:05,115 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 16:55:15,140 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-11 16:55:20,265 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-11 16:55:25,334 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-11 17:04:28,553 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 17:04:33,782 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 17:04:38,986 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 17:04:44,541 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 17:04:50,732 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 17:04:55,744 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 17:05:05,761 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-11 17:05:10,916 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-11 17:05:15,984 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-11 17:08:17,297 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-11 17:08:22,506 [main] INFO DHFAPIV4 - UserName provided
+2022-07-11 17:08:27,700 [main] INFO DHFAPIV4 - Password provided
+2022-07-11 17:08:33,081 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-11 17:08:39,071 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-11 17:08:44,078 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-11 17:08:54,097 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-11 17:08:59,232 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-11 17:09:04,311 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-11 17:09:04,311 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:18:24,452 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:18:30,789 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:18:35,981 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:18:41,683 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:18:47,803 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:18:52,818 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:19:02,849 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 09:19:08,002 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:19:13,073 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:19:13,074 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:23:18,855 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:23:24,050 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:23:29,245 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:23:34,661 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:23:40,785 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:23:45,790 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:23:55,819 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 09:24:00,945 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:24:06,015 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:24:06,015 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:31:30,491 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:31:33,775 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:31:36,984 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:31:40,424 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:31:44,670 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:31:49,683 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:32:08,732 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:32:11,922 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:32:15,124 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:32:18,607 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:32:22,702 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:32:27,706 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:32:30,722 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 09:32:30,834 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:32:33,907 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:32:33,908 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:34:05,192 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:34:08,426 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:34:11,635 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:34:15,084 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:34:19,235 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:34:24,248 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:34:27,373 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:34:30,448 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:34:30,448 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:40:30,886 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:40:34,105 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:40:37,309 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:40:40,792 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:40:44,902 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:40:49,915 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:40:53,417 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:40:56,488 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:40:56,489 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:42:34,760 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:42:37,964 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:42:41,175 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:42:44,611 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:42:48,848 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:42:53,862 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:42:57,062 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:43:00,141 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:43:00,142 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:46:23,496 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:46:26,677 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:46:29,873 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:46:33,301 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:46:37,414 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:46:42,430 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:46:45,449 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 09:46:45,553 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:46:48,632 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:46:48,632 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:49:06,328 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:49:09,520 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:49:12,714 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:49:16,139 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:49:20,271 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:49:25,282 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:52:30,858 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:52:34,057 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:52:37,251 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:52:40,665 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:52:45,100 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:52:50,110 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:52:53,223 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:52:56,287 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:52:56,288 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 09:53:46,347 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 09:58:04,851 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 09:58:08,076 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 09:58:11,292 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 09:58:14,694 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 09:58:18,795 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 09:58:23,808 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 09:58:27,098 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 09:58:30,160 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 09:58:30,161 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:01:01,454 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:01:04,677 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:01:07,886 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:01:11,280 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:01:15,305 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:01:20,308 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:01:38,166 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:01:41,382 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:01:44,602 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:01:48,035 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:01:52,157 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:01:57,164 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:02:00,278 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:02:03,359 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:02:03,360 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:02:53,417 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 10:14:55,672 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:14:58,872 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:15:02,089 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:15:05,538 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:15:10,763 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:15:15,770 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:15:18,912 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:15:21,985 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:15:21,986 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:16:29,745 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:16:32,969 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:16:36,173 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:16:39,602 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:16:43,647 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:16:48,650 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:16:51,809 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:16:54,878 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:16:54,878 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:17:44,933 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 10:20:13,006 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:20:16,227 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:20:19,430 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:20:22,895 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:20:26,965 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:20:31,968 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:20:35,155 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:20:38,228 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:20:38,233 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:21:28,294 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 10:26:00,013 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:26:03,222 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:26:06,424 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:26:09,846 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:26:14,015 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:26:19,027 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:26:22,335 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:26:25,409 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:26:25,410 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:27:15,468 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 10:27:20,586 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 10:35:46,567 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:35:49,775 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:35:52,989 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:35:56,416 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:36:00,569 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:36:05,584 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:36:08,594 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 10:36:08,778 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:36:11,856 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:36:11,857 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:37:52,113 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:37:55,331 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:37:58,543 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:38:01,949 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:38:06,060 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:38:11,074 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:38:14,350 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:38:17,419 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:38:17,420 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:42:20,362 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:42:23,578 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:42:26,787 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:42:30,198 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:42:34,249 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:42:39,260 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:42:42,284 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 10:42:42,393 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:42:45,467 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:42:45,468 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:43:45,527 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 10:43:50,642 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 10:48:33,292 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:48:36,496 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:48:39,697 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:48:43,136 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:48:47,270 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:48:52,276 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:48:55,728 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:48:58,803 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:48:58,804 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:49:58,876 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 10:50:55,363 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:50:58,575 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:51:01,789 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:51:05,207 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:51:09,431 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:51:14,439 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:51:17,794 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:51:20,870 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:51:20,871 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:52:20,929 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 10:52:31,025 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 10:55:01,643 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 10:55:04,832 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 10:55:08,032 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 10:55:11,449 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 10:55:15,481 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 10:55:20,483 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 10:55:24,547 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 10:55:27,619 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 10:55:27,620 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 10:56:27,675 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 10:56:37,768 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 10:56:37,806 [main] INFO DHFAPIV4 - Conformance Test Suite - Scenario
+2022-07-12 11:07:18,217 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 11:07:21,424 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 11:07:24,640 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 11:07:28,099 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 11:07:32,087 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 11:07:37,091 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 11:07:56,122 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 11:07:59,334 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 11:08:02,542 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 11:08:05,939 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 11:08:10,084 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 11:08:15,088 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 11:08:18,200 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 11:08:21,273 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 11:08:21,274 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 11:09:21,341 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 11:09:31,445 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 11:09:31,484 [main] INFO DHFAPIV4 - Conformance Test Suite - Scenario
+2022-07-12 13:29:20,402 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 13:29:23,688 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 13:29:26,926 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 13:29:30,356 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 13:29:34,356 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 13:29:39,365 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 13:29:42,508 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 13:46:30,445 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 13:46:33,668 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 13:46:36,878 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 13:46:40,357 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 13:46:44,357 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 13:46:49,361 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 13:46:52,979 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 13:52:01,807 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 13:52:05,021 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 13:52:08,235 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 13:52:11,792 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 13:52:15,895 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 13:52:20,901 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 13:52:23,919 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 13:52:24,030 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 13:52:27,091 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 13:52:27,092 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 13:53:27,159 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 13:53:37,262 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:12:23,500 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:12:26,723 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:12:29,932 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:12:33,369 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:12:37,470 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:12:42,472 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:12:45,801 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:12:48,878 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:12:48,878 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:13:48,943 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 14:13:59,065 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:16:53,604 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:16:56,853 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:17:00,080 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:17:03,511 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:17:07,546 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:17:12,554 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:17:15,822 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:17:18,905 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:17:18,906 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:18:18,966 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 14:18:29,080 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:22:42,473 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:22:45,754 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:22:48,969 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:22:52,360 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:22:56,636 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:23:01,647 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:23:04,768 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:23:07,846 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:23:07,847 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:27:24,092 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:27:27,298 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:27:30,530 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:27:34,048 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:27:38,075 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:27:43,081 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:27:46,466 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:27:49,537 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:27:49,537 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:28:49,600 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 14:28:59,707 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:30:29,794 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:30:33,020 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:30:36,228 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:30:39,627 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:30:43,679 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:30:48,686 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:31:48,731 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:31:51,963 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:31:55,196 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:31:58,261 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:32:01,315 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:32:06,331 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:33:59,422 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:34:02,639 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:34:05,847 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:34:09,276 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:34:13,450 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:34:18,465 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:34:21,571 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:34:24,645 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:34:24,646 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:35:24,704 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 14:35:34,816 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:37:36,302 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:37:39,568 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:37:42,809 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:37:46,261 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:37:50,266 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:37:55,281 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:37:58,295 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 14:37:58,399 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:38:01,477 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:38:01,478 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:39:01,533 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 14:39:11,629 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:39:12,118 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 14:39:15,440 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 14:43:03,965 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:43:07,193 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:43:10,405 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:43:13,864 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:43:17,976 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:43:22,979 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:43:26,225 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:43:29,311 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:43:29,312 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:44:29,367 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 14:44:39,477 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:44:39,909 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 14:44:43,322 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 14:49:30,556 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:49:33,761 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:49:36,973 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:49:40,389 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:49:44,729 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:49:49,731 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:49:53,462 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:49:56,542 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:49:56,544 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:50:56,615 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 14:51:06,723 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:51:07,259 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 14:51:10,532 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 14:51:13,606 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 14:51:16,942 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 14:55:35,918 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:55:39,139 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:55:42,347 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:55:45,783 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:55:50,020 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:55:55,036 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:55:58,052 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 14:55:58,215 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:56:01,299 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:56:01,300 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 14:57:01,365 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 14:57:11,478 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 14:57:11,887 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 14:57:15,236 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 14:57:18,296 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 14:57:21,724 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 14:57:24,789 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 14:57:28,026 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 14:59:24,689 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 14:59:27,938 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 14:59:31,163 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 14:59:34,582 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 14:59:38,770 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 14:59:43,775 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 14:59:46,952 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 14:59:50,034 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 14:59:50,035 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:00:50,098 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 15:01:00,211 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 15:01:00,832 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 15:01:04,150 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 15:01:07,211 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 15:01:10,505 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 15:01:13,569 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 15:01:16,792 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 15:02:55,622 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:02:58,842 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:03:02,051 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:03:05,463 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:03:09,655 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:03:14,667 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:03:18,173 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 15:03:21,250 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 15:03:21,252 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:04:21,310 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 15:04:31,410 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 15:04:31,812 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 15:04:35,095 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 15:04:38,164 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 15:04:41,526 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 15:04:44,586 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 15:04:47,850 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 15:04:51,752 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 15:08:58,243 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:09:01,478 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:09:04,684 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:09:08,091 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:09:12,101 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:09:17,103 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:09:20,392 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 15:09:23,475 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 15:09:23,476 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:10:23,532 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 15:10:33,638 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 15:10:34,063 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 15:10:37,427 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 15:10:40,495 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 15:10:43,823 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 15:10:46,899 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 15:10:50,156 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 15:10:53,963 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 15:17:42,688 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:17:45,913 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:17:49,124 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:17:52,563 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:17:56,748 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:18:01,754 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:18:05,040 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 15:18:08,113 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 15:18:08,113 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:20:35,696 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:20:38,944 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:20:42,189 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:20:45,578 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:20:49,659 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:20:54,671 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:20:57,824 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 15:21:00,911 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 15:21:00,912 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:22:00,977 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 15:22:11,087 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 15:22:11,463 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 15:22:14,700 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 15:22:17,758 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 15:22:21,010 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 15:22:24,078 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 15:22:27,279 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 15:22:31,136 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 15:22:36,191 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 15:24:51,638 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:24:54,875 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:24:58,097 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:25:01,506 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:25:05,596 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:25:10,609 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:25:38,104 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:25:41,334 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:25:44,540 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:25:47,970 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:25:52,130 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:25:57,145 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:26:00,555 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 15:26:03,644 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 15:26:03,645 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:27:03,714 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 15:27:33,331 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:27:36,548 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:27:39,763 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:27:43,194 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:27:47,237 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:27:52,241 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:27:55,365 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 15:27:58,446 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 15:27:58,447 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:28:58,514 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 15:29:08,618 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 15:29:09,124 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 15:29:12,375 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 15:29:15,441 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 15:29:18,804 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 15:29:21,865 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 15:29:25,128 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 15:29:29,030 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 15:29:34,091 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 15:30:24,159 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 15:49:40,196 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:49:42,387 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:49:44,571 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:49:47,037 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:49:50,119 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:49:55,121 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:49:57,292 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 15:49:59,374 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 15:49:59,374 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:50:59,434 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 15:51:09,528 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 15:51:09,916 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 15:51:12,175 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 15:51:14,233 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 15:51:17,573 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 15:51:19,634 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 15:51:21,892 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 15:51:24,763 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 15:51:29,812 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 15:52:19,880 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 15:56:16,806 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 15:56:18,999 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 15:56:21,199 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 15:56:23,670 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 15:56:26,876 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 15:56:31,892 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 15:56:34,714 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 15:56:36,809 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 15:56:36,810 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 15:57:36,870 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 15:57:46,968 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 15:57:47,392 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 15:57:49,685 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 15:57:51,757 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 15:57:55,003 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 15:57:57,065 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 15:57:59,292 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 15:58:02,159 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 15:58:07,232 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 15:58:57,301 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 16:13:13,135 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:13:15,343 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:13:17,517 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:13:19,940 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 16:13:22,964 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 16:13:27,969 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 16:13:30,142 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 16:13:32,226 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 16:13:32,226 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 16:14:32,291 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 16:14:42,399 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 16:14:42,868 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 16:14:45,135 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 16:14:47,200 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 16:14:50,479 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 16:14:52,533 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 16:14:54,765 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 16:14:57,617 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 16:15:02,678 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 16:15:52,752 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 16:17:16,435 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:17:18,626 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:17:20,830 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:17:23,344 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 16:17:26,386 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 16:17:31,402 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 16:17:33,958 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 16:17:36,043 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 16:17:36,044 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 16:18:36,113 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 16:18:46,214 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 16:18:46,580 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 16:18:48,868 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 16:18:50,928 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 16:18:54,204 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 16:18:56,259 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 16:18:58,473 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 16:19:01,386 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 16:19:06,452 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 16:19:56,518 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 16:19:56,518 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 16:25:43,264 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:25:45,446 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:25:47,627 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:25:50,104 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 16:25:53,300 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 16:25:58,315 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 16:26:35,362 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:26:37,562 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:26:39,776 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:26:42,247 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 16:26:45,558 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 16:26:50,566 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 16:27:22,697 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:27:24,883 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:27:27,057 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:27:29,512 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 16:27:32,622 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 16:27:37,623 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 16:27:40,310 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 16:27:42,391 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 16:27:42,391 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 16:28:42,455 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 16:37:12,654 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:37:14,930 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:37:17,122 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:37:19,640 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 16:37:22,792 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 16:37:27,800 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 16:37:30,054 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 16:37:32,161 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 16:37:32,162 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 16:38:32,230 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 16:38:42,325 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 16:38:42,770 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 16:38:45,078 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 16:38:47,153 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 16:38:50,526 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 16:38:52,594 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 16:38:54,794 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 16:38:57,732 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 16:39:02,784 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 16:39:52,851 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 16:39:52,852 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 16:45:17,710 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:45:19,935 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:45:22,160 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:45:24,657 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 16:45:27,898 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 16:45:32,911 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 16:45:35,044 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 16:45:37,132 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 16:45:37,133 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 16:46:37,214 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 16:46:47,324 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 16:46:47,753 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 16:46:50,133 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 16:46:52,198 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 16:46:55,467 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 16:46:57,534 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 16:46:59,756 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 16:47:02,962 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 16:47:08,010 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 16:47:58,086 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 16:47:58,086 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 16:56:25,495 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:56:27,689 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:56:29,880 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:56:32,373 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 16:56:35,408 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 16:56:40,417 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 16:56:43,080 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 16:56:45,153 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 16:56:45,155 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 16:57:45,216 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 16:57:55,306 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 16:57:55,677 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 16:57:58,097 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 16:58:00,156 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 16:58:03,431 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 16:58:05,488 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 16:58:07,680 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 16:58:10,663 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 16:58:15,725 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 16:59:52,117 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 16:59:54,296 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 16:59:56,475 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 16:59:58,978 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:00:02,123 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:00:07,126 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:00:09,253 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:00:11,344 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:00:11,344 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:02:04,683 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:02:06,889 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:02:09,093 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:02:11,596 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:02:14,766 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:02:19,783 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:02:21,808 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 17:02:21,942 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:02:24,033 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:02:24,033 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:03:24,097 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 17:03:34,204 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 17:03:35,154 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 17:03:37,666 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 17:03:39,737 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 17:03:43,189 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 17:03:45,254 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 17:03:47,499 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 17:03:50,591 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 17:03:55,655 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 17:04:45,719 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 17:04:45,719 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 17:11:32,756 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:11:34,917 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:11:37,084 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:11:39,534 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:11:42,641 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:11:47,648 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:11:49,765 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:11:51,872 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:11:51,873 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:12:51,929 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 17:13:02,027 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 17:13:02,511 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 17:13:04,818 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 17:13:06,885 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 17:13:10,201 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 17:13:12,257 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 17:13:14,588 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 17:13:17,533 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 17:13:22,598 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 17:14:12,668 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 17:14:12,668 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 17:15:35,095 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:15:37,282 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:15:39,492 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:15:41,993 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:15:45,013 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:15:50,030 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:15:52,641 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:15:54,709 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:15:54,710 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:16:54,786 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 17:17:04,893 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 17:17:05,697 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 17:17:07,977 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 17:17:10,047 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 17:17:13,360 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 17:17:15,424 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 17:17:17,895 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 17:17:20,902 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 17:17:25,970 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 17:18:16,058 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 17:18:16,059 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 17:31:31,722 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:31:33,930 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:31:36,142 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:31:38,603 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:31:41,742 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:31:46,758 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:31:48,953 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:31:51,070 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:31:51,070 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:32:48,201 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:32:50,405 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:32:52,606 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:32:55,073 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:32:58,288 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:33:03,301 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:33:05,326 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 17:33:05,435 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:33:07,512 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:33:07,513 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:34:32,191 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:34:34,380 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:34:36,574 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:34:39,035 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:34:42,145 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:34:47,148 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:34:49,272 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:34:51,353 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:34:51,354 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:36:14,111 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:36:16,311 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:36:18,547 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:36:21,021 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:36:24,174 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:36:29,177 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:36:31,566 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:36:33,638 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:36:33,639 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:39:39,595 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:39:41,787 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:39:43,989 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:39:46,425 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:39:49,587 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:39:54,597 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:39:57,034 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:39:59,120 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:39:59,121 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:42:22,310 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:42:24,517 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:42:26,719 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:42:29,167 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:42:32,164 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:42:37,167 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:42:39,193 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 17:42:39,317 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:42:41,396 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:42:41,397 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:45:29,924 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:45:32,118 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:45:34,316 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:45:36,777 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:45:39,960 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:45:44,975 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:45:46,997 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 17:45:47,108 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:45:49,170 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:45:49,171 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:46:11,967 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 17:46:22,102 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 17:46:22,521 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 17:46:24,833 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 17:46:26,894 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 17:46:30,278 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 17:46:32,360 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 17:46:34,588 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 17:46:37,555 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 17:46:42,619 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 17:47:32,693 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 17:47:32,694 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 17:50:12,155 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:50:14,366 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:50:16,625 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:50:19,109 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:50:22,298 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:50:27,310 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:50:29,455 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:50:31,536 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:50:31,537 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:52:29,643 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 17:52:31,828 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 17:52:34,019 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 17:52:36,470 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 17:52:39,599 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 17:52:44,607 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 17:52:46,631 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 17:52:46,748 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 17:52:48,838 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 17:52:48,839 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 17:53:13,642 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 21:11:22,223 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:11:24,474 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:11:26,668 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:11:29,085 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:11:32,246 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:11:37,257 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:11:39,745 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 21:11:41,837 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 21:11:41,838 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 21:12:13,271 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 21:12:23,373 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 21:12:24,147 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 21:12:26,758 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 21:12:28,819 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 21:12:32,656 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 21:12:34,732 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 21:12:36,996 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 21:12:40,243 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 21:12:45,301 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 21:12:45,301 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-12 21:12:49,095 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 21:12:49,096 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 21:17:19,870 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:17:22,070 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:17:24,286 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:17:26,761 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:17:29,986 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:17:34,995 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:17:38,742 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 21:17:40,829 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 21:17:40,831 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 21:18:14,971 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 21:18:25,065 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 21:18:25,663 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 21:18:28,109 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 21:18:30,167 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 21:18:33,606 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 21:18:35,676 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 21:18:38,052 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 21:18:41,248 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 21:18:46,310 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 21:18:46,311 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-12 21:21:11,844 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:21:14,037 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:21:16,252 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:21:18,813 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:21:25,428 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:21:30,440 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:21:54,440 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:21:56,635 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:21:58,854 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:22:01,321 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:22:04,455 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:22:09,462 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:22:11,488 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 21:22:11,599 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 21:22:13,673 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 21:22:13,673 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 21:23:13,203 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 21:23:23,306 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 21:23:23,862 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 21:23:26,135 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 21:23:28,192 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 21:23:31,568 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 21:23:33,620 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 21:23:35,875 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 21:23:38,943 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 21:23:43,994 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 21:23:43,995 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-12 21:24:12,407 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 21:24:12,408 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 21:30:37,326 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:30:39,537 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:30:41,737 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:30:44,193 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:30:47,233 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:30:52,244 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:30:54,714 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 21:30:56,788 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 21:30:56,790 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 21:31:14,780 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 21:31:24,894 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 21:31:25,344 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 21:31:27,793 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 21:31:29,852 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 21:31:33,192 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 21:31:35,256 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 21:31:37,528 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 21:31:40,542 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 21:31:45,597 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 21:31:45,598 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-12 21:32:12,942 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 21:32:12,943 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 21:47:06,678 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:47:08,844 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:47:11,020 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:47:13,521 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:47:16,644 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:47:21,659 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:47:23,804 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 21:47:25,898 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 21:47:25,899 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 21:48:12,873 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 21:48:22,982 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 21:48:23,435 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 21:48:25,710 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 21:48:27,774 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 21:48:31,126 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 21:48:33,190 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 21:48:35,467 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 21:48:38,368 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 21:48:43,428 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 21:48:43,429 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-12 21:49:11,770 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 21:49:11,770 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 21:52:45,073 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:52:47,297 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:52:49,486 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:52:51,931 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:52:55,042 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:53:00,044 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:53:02,905 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 21:53:04,976 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 21:53:04,976 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 21:53:32,500 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:53:34,690 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:53:36,871 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:53:39,325 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:53:42,350 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:53:47,351 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:54:10,807 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 21:54:13,006 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 21:54:15,201 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 21:54:17,611 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 21:54:20,663 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 21:54:25,667 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 21:54:27,789 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 21:54:29,860 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 21:54:29,861 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 21:55:15,346 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 21:55:25,462 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 21:55:25,965 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 21:55:28,231 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 21:55:30,309 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 21:55:33,691 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 21:55:35,748 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 21:55:38,111 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 21:55:41,026 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 21:55:46,077 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 21:55:46,078 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-12 21:56:12,902 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 21:56:12,902 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 22:00:17,795 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 22:00:19,997 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 22:00:22,175 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 22:00:24,624 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 22:00:27,920 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 22:00:32,927 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 22:00:34,947 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-12 22:00:35,065 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 22:00:37,166 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 22:00:37,167 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 22:01:13,890 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 22:01:23,991 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 22:01:24,512 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 22:01:26,809 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 22:01:28,880 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 22:01:32,327 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 22:01:34,385 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 22:01:36,730 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 22:01:39,722 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 22:01:44,779 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 22:01:44,779 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-12 22:02:12,597 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 22:02:12,597 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-12 22:08:01,161 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-12 22:08:03,397 [main] INFO DHFAPIV4 - UserName provided
+2022-07-12 22:08:05,615 [main] INFO DHFAPIV4 - Password provided
+2022-07-12 22:08:08,052 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-12 22:08:11,112 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-12 22:08:16,114 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-12 22:08:18,530 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-12 22:08:20,594 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-12 22:08:20,594 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-12 22:09:14,312 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-12 22:09:24,406 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-12 22:09:24,842 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-12 22:09:27,274 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-12 22:09:29,345 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-12 22:09:32,900 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-12 22:09:34,968 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-12 22:09:37,242 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-12 22:09:40,161 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-12 22:09:45,214 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-12 22:09:45,215 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-12 22:10:13,007 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-12 22:10:13,008 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 09:11:21,668 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 09:11:23,959 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 09:11:26,247 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 09:11:28,784 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 09:11:32,053 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 09:11:37,064 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 09:11:40,271 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 09:11:42,354 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 09:11:42,355 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 09:12:13,654 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 09:12:23,779 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 09:12:24,440 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 09:12:26,941 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 09:12:29,015 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 09:12:32,454 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 09:12:34,541 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 09:12:36,920 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 09:12:39,974 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 09:12:45,024 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 09:12:45,025 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 09:13:12,115 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 09:13:12,116 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 09:19:40,688 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 09:19:42,928 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 09:19:45,212 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 09:19:47,738 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 09:19:50,871 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 09:19:55,874 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 09:19:58,654 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 09:20:00,754 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 09:20:00,755 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 09:20:15,904 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 09:20:26,020 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 09:20:26,476 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 09:20:28,781 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 09:20:30,864 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 09:20:34,264 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 09:20:36,344 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 09:20:38,615 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 09:20:41,707 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 09:20:46,772 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 09:20:46,773 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 09:21:11,266 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 09:21:11,267 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 09:28:26,379 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 09:28:28,609 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 09:28:30,933 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 09:28:33,441 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 09:28:36,630 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 09:28:41,635 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 09:28:43,664 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-13 09:28:43,803 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 09:28:45,887 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 09:28:45,888 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 09:29:23,979 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 09:29:34,105 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 09:29:34,523 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 09:29:36,824 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 09:29:38,902 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 09:29:42,383 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 09:29:44,448 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 09:29:46,687 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 09:29:49,827 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 09:29:54,875 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 09:29:54,875 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 09:30:12,580 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 09:30:12,581 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 09:30:22,730 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 09:42:50,426 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 09:42:52,646 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 09:42:54,878 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 09:42:57,356 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 09:43:00,545 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 09:43:05,548 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 09:43:25,416 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 09:43:27,623 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 09:43:29,829 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 09:43:32,293 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 09:43:35,571 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 09:43:40,580 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 09:43:42,721 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 09:43:44,807 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 09:43:44,809 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 09:44:25,743 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 09:44:35,839 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 09:44:36,409 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 09:44:38,713 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 09:44:40,797 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 09:44:44,141 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 09:44:46,204 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 09:44:48,604 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 09:44:51,614 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 09:44:56,683 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 09:44:56,684 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 09:45:11,269 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 09:45:11,269 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 09:45:21,403 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 09:57:09,107 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 09:57:11,330 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 09:57:13,539 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 09:57:16,030 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 09:57:19,179 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 09:57:24,182 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 09:57:26,628 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 09:57:28,725 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 09:57:28,726 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 09:58:15,780 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 09:58:25,906 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 09:58:26,713 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 09:58:29,043 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 09:58:31,110 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 09:58:34,430 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 09:58:36,502 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 09:58:38,854 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 09:58:42,079 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 09:58:47,142 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 09:58:47,143 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 09:59:19,358 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 09:59:19,358 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 09:59:29,519 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 10:12:13,029 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 10:12:15,259 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 10:12:17,519 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 10:12:20,031 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 10:12:23,278 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 10:12:28,290 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 10:12:31,021 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 10:12:33,111 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 10:12:33,112 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 10:13:16,812 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 10:13:26,921 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 10:13:27,427 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 10:13:29,852 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 10:13:31,928 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 10:13:35,314 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 10:13:37,389 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 10:13:39,633 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 10:13:42,768 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 10:13:47,833 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 10:13:47,834 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 10:14:21,155 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 10:14:21,156 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 10:14:31,302 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 11:56:04,963 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 11:56:07,217 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 11:56:09,437 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 11:56:11,954 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 11:56:15,148 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 11:56:20,158 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 11:56:22,558 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 11:56:24,645 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 11:56:24,646 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 11:58:07,843 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 11:58:10,065 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 11:58:12,305 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 11:58:14,775 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 11:58:17,851 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 11:58:22,862 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 11:58:25,300 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 11:58:27,387 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 11:58:27,387 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 11:59:19,263 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 11:59:29,375 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 11:59:29,865 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 11:59:32,302 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 11:59:34,361 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 11:59:37,657 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 11:59:39,730 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 11:59:42,002 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 11:59:45,073 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 11:59:50,133 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 11:59:50,134 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 12:00:13,019 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 12:00:13,020 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 12:00:23,167 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 12:19:22,765 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 12:19:24,971 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 12:19:27,176 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 12:19:29,648 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 12:19:32,864 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 12:19:37,875 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 12:19:40,707 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 12:19:42,802 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 12:19:42,803 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 12:20:13,519 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 12:20:53,443 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 12:20:55,646 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 12:20:57,882 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 12:21:00,354 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 12:21:03,572 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 12:21:08,586 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 12:21:11,185 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 12:21:13,274 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 12:21:13,275 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 12:22:08,972 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 12:23:55,812 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 12:23:58,008 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 12:24:00,195 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 12:24:02,686 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 12:24:05,905 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 12:24:10,917 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 12:24:13,332 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 12:24:15,419 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 12:24:15,420 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 12:25:10,893 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 12:29:08,004 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 12:29:10,211 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 12:29:12,414 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 12:29:14,839 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 12:29:17,965 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 12:29:22,979 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 12:29:25,614 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 12:29:27,704 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 12:29:27,704 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 12:30:14,299 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 12:30:24,415 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 12:30:25,074 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 12:30:27,444 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 12:30:29,508 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 12:30:32,999 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 12:30:35,070 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 12:30:37,442 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 12:30:40,404 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 12:30:45,467 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 12:30:45,468 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 12:31:14,050 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 12:31:14,051 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 12:31:24,346 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 14:24:53,506 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:24:55,701 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:24:57,919 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 14:25:00,466 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 14:25:03,983 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 14:25:08,986 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 14:25:11,013 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-13 14:25:11,132 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 14:25:13,225 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 14:25:13,225 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 14:26:13,348 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 14:26:23,474 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 14:26:24,184 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 14:26:26,674 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 14:26:28,740 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 14:26:32,139 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 14:26:34,292 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 14:26:36,612 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 14:26:39,809 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 14:26:44,865 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 14:26:44,866 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 14:27:11,881 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 14:27:11,881 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 14:27:22,687 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 14:31:44,473 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:31:46,686 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:31:48,896 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 14:31:51,408 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 14:31:54,546 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 14:31:59,559 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 14:32:01,862 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 14:32:03,960 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 14:32:03,961 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 14:32:15,367 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 14:32:25,489 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 14:32:26,312 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 14:32:28,815 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 14:32:30,903 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 14:32:34,512 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 14:32:36,581 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 14:32:38,962 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 14:32:41,990 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 14:32:47,061 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 14:32:47,063 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 14:33:14,092 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 14:33:14,093 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 14:38:29,052 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:38:31,272 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:38:33,471 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 14:38:35,992 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 14:38:39,079 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 14:38:44,093 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 14:38:46,299 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 14:38:48,403 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 14:38:48,404 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 14:39:15,647 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 14:39:25,776 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 14:39:26,253 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 14:39:28,701 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 14:39:30,777 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 14:39:34,216 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 14:39:36,293 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 14:39:38,587 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 14:39:41,842 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 14:39:46,898 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 14:39:46,899 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 14:40:12,428 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 14:40:12,429 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 14:40:30,837 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 14:42:43,971 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:42:46,171 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:42:48,374 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 14:42:50,831 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 14:42:54,011 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 14:42:59,023 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 14:43:01,046 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-13 14:43:01,221 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 14:43:03,332 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 14:43:03,333 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 14:43:14,702 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 14:43:24,825 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 14:43:25,385 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 14:43:27,853 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 14:43:29,920 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 14:43:33,341 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 14:43:35,411 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 14:43:37,716 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 14:43:40,837 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 14:43:45,924 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 14:43:45,925 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 14:46:25,986 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:46:28,246 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:46:30,481 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 14:46:32,920 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 14:46:36,237 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 14:46:41,254 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 14:46:43,806 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 14:46:45,903 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 14:46:45,905 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 14:47:14,642 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 14:47:24,762 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 14:47:25,298 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 14:47:27,746 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 14:47:29,818 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 14:47:33,135 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 14:47:35,204 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 14:47:37,617 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 14:47:40,734 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 14:47:45,799 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 14:47:45,799 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 14:48:13,368 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 14:48:13,368 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 14:48:41,563 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 14:50:59,563 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:51:00,067 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:51:00,380 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 14:55:34,370 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:55:34,855 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:55:36,498 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 14:55:36,967 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 14:55:38,079 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 14:55:43,088 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 14:55:45,573 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 14:55:47,671 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 14:55:47,672 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 14:58:04,816 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:58:05,128 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:58:57,654 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 14:58:57,981 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 14:58:59,700 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 14:59:00,164 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 14:59:01,438 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 14:59:06,454 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 15:00:56,445 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 15:00:56,802 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 15:01:09,552 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 15:01:10,007 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 15:01:11,234 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 15:01:16,250 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 15:01:19,390 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 15:01:21,481 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 15:01:21,482 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 15:03:28,756 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 15:03:49,926 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 15:03:50,250 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 15:03:55,047 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 15:03:55,576 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 15:03:56,791 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 15:04:01,797 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 15:04:05,229 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 15:04:07,319 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 15:04:07,321 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 15:04:21,824 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 15:04:31,939 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 15:04:32,523 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 15:04:34,822 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 15:04:36,890 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 15:04:40,301 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 15:04:42,370 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 15:04:44,721 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 15:04:47,727 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 15:04:52,789 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 15:04:52,791 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 15:05:13,580 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 15:05:13,580 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 15:05:41,860 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 15:07:07,672 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 15:07:08,058 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 15:07:12,783 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 15:07:13,306 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 15:07:14,996 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 15:07:20,000 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 15:07:23,358 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 15:07:25,446 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 15:07:25,447 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 15:08:11,821 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 15:08:21,946 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 15:08:22,359 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 15:08:24,850 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 15:08:26,918 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 15:08:30,529 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 15:08:32,601 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 15:08:35,007 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 15:08:37,963 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 15:08:43,037 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 15:08:43,038 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 15:09:16,819 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 15:09:16,819 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 15:09:45,025 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 15:37:17,391 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 15:37:17,704 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 15:37:22,443 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 15:37:22,928 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 15:37:24,236 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 15:37:29,238 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 15:37:29,248 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-13 15:37:32,373 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 15:37:34,453 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 15:37:34,454 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 15:38:14,464 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 15:38:24,607 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 15:38:25,172 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 15:38:25,490 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 15:38:25,559 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 15:38:25,883 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 15:38:25,957 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 15:38:26,190 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 15:38:27,221 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 15:38:32,292 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 15:38:32,293 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 15:39:17,443 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 15:39:17,444 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 15:39:45,546 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 15:41:34,492 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 15:41:34,800 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 15:41:39,588 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 15:41:40,165 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 15:41:41,418 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 15:41:46,434 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 15:41:49,861 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 15:41:51,939 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 15:41:51,940 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 15:42:12,794 [main] INFO DHFAPIV4 - Clicked continue after polling to completed
+2022-07-13 15:42:22,920 [main] INFO DHFAPIV4 - Clicked the Run Manual Browser Step
+2022-07-13 15:42:23,465 [main] INFO DHFAPIV4 - Customer Id Entered
+2022-07-13 15:42:23,768 [main] INFO DHFAPIV4 - Clicked the continue button on Customer Id page
+2022-07-13 15:42:23,838 [main] INFO DHFAPIV4 - Valid OTP Entered
+2022-07-13 15:42:24,230 [main] INFO DHFAPIV4 - Clicked the continue button on OTP page
+2022-07-13 15:42:24,315 [main] INFO DHFAPIV4 - Selected an Account
+2022-07-13 15:42:24,587 [main] INFO DHFAPIV4 - Clicked the continue button in Account page
+2022-07-13 15:42:25,636 [main] INFO DHFAPIV4 - Clicked the iConfirm Button
+2022-07-13 15:42:30,702 [main] INFO DHFAPIV4 - Switched to Scenario Page
+2022-07-13 15:42:30,703 [main] INFO DHFAPIV4 - Waiting for second set of polling
+2022-07-13 15:43:11,797 [main] INFO DHFAPIV4 - Clicked the Continue Button after polling
+2022-07-13 15:43:11,797 [main] INFO DHFAPIV4 - Scenario Successfully Completed
+2022-07-13 15:43:39,896 [main] INFO DHFAPIV4 - Navigated back to Scenario Testplan Page
+2022-07-13 15:48:37,121 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 15:48:37,399 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 15:48:42,110 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 15:48:42,637 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 15:48:43,951 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 15:48:48,959 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 15:48:48,969 [main] INFO DHFAPIV4 - Launched CTS Participant Portal
+2022-07-13 15:48:52,134 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 15:48:54,221 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 15:48:54,222 [main] INFO DHFAPIV4 - Waiting for polling to complete
+2022-07-13 16:01:55,264 [main] INFO DHFAPIV4 - Launched the Page
+2022-07-13 16:01:55,659 [main] INFO DHFAPIV4 - UserName provided
+2022-07-13 16:02:00,335 [main] INFO DHFAPIV4 - Password provided
+2022-07-13 16:02:00,875 [main] INFO DHFAPIV4 - Successfully clicked logged in
+2022-07-13 16:02:02,147 [main] INFO DHFAPIV4 - Successfully clicked Stay Signed in
+2022-07-13 16:02:07,149 [main] INFO DHFAPIV4 - Successfully Authenticated using Authenticator
+2022-07-13 16:02:10,382 [main] INFO DHFAPIV4 - Selected Removed SW product Scenario
+2022-07-13 16:02:12,484 [main] INFO DHFAPIV4 - Clicked on reRun Button
+2022-07-13 16:02:12,485 [main] INFO DHFAPIV4 - Waiting for polling to complete
