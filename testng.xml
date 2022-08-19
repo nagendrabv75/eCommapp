@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.DHFAPIV4.testCases.EnergyV4"/>
+ 		<class name="com.DHFAPIV4.testCases.TestPlanV4"/>  
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

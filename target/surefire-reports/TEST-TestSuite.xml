@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="127.845" tests="2" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="87.244" tests="2" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.1+12"/>
@@ -24,9 +24,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\nagendra.venugopal\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf16228203436832894040.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\nagendra.venugopal\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf12347737395315013955.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Users\nagendra.venugopal\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/nagendra.venugopal/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin/server;C:/Users/nagendra.venugopal/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\nagendra.venugopal\AppData\Local\Microsoft\WindowsApps;C:\Program Files\OpenSSL-Win64\bin;C:\Users\nagendra.venugopal\AppData\Local\GitHubDesktop\bin;C:\Users\nagendra.venugopal\Desktop;;."/>
+    <property name="java.library.path" value="C:\Users\nagendra.venugopal\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/nagendra.venugopal/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin/server;C:/Users/nagendra.venugopal/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.1.v20211116-1657/jre/bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Git\cmd;C:\Users\nagendra.venugopal\AppData\Local\Microsoft\WindowsApps;C:\Program Files\OpenSSL-Win64\bin;C:\Users\nagendra.venugopal\AppData\Local\GitHubDesktop\bin;C:\Users\nagendra.venugopal\AppData\Roaming\npm;C:\Users\nagendra.venugopal\Desktop;;."/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="61.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -57,6 +57,50 @@
     <property name="java.vendor.version" value="Temurin-17.0.1+12"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="loginPageMethod" classname="com.DHFAPIV4.testCases.EnergyV4" time="17.695"/>
-  <testcase name="selectScenarios" classname="com.DHFAPIV4.testCases.EnergyV4" time="110.15"/>
+  <testcase name="loginPageMethod" classname="com.DHFAPIV4.testCases.TestPlanV4" time="31.839"/>
+  <testcase name="listofScenarios" classname="com.DHFAPIV4.testCases.TestPlanV4" time="55.405">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#continue\-test\-execution\-button&quot;}&#10;  (Session info: chrome=104.0.5112.102)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.3.0&apos;, revision: &apos;a4995e2c09*&apos;&#10;System info: host: &apos;vmdevlab034&apos;, ip: &apos;10.50.0.37&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.1&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Command: [70f681e7b75acb74b19e16b6fcad72a1, findElement {using=id, value=continue-test-execution-button}]&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\NAGEND~1.VEN\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51123}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51123/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 70f681e7b75acb74b19e16b6fcad72a1" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#continue\-test\-execution\-button"}
+  (Session info: chrome=104.0.5112.102)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'vmdevlab034', ip: '10.50.0.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [70f681e7b75acb74b19e16b6fcad72a1, findElement {using=id, value=continue-test-execution-button}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 104.0.5112.102, chrome: {chromedriverVersion: 103.0.5060.53 (a1711811edd7..., userDataDir: C:\Users\NAGEND~1.VEN\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51123}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51123/devtoo..., se:cdpVersion: 104.0.5112.102, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 70f681e7b75acb74b19e16b6fcad72a1
+	at jdk.internal.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:387)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:379)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy15.click(Unknown Source)
+	at com.DHFAPIV4.pageObjects.selectScenario.continueSPS(selectScenario.java:302)
+	at com.DHFAPIV4.testCases.TestPlanV4.invokeSPS(TestPlanV4.java:339)
+	at com.DHFAPIV4.testCases.TestPlanV4.listofScenarios(TestPlanV4.java:122)
+</failure>
+    <system-out><![CDATA[Dynamic Client Registration
+Concurrent Consent
+Get Software Product Status Register Polling
+ INFO [main] (TestPlanV4.java:287)- Selected SPS TestPlan
+ INFO [main] (TestPlanV4.java:293)- Clicked on reRun Button
+ INFO [main] (TestPlanV4.java:294)- Waiting for polling to complete
+ INFO [main] (TestPlanV4.java:722)- Clicked continue after polling to completed
+Get discovery document
+Show details
+Success
+Fri, 19 Aug 2022 00:05:22 GMT
+]]></system-out>
+  </testcase>
 </testsuite>

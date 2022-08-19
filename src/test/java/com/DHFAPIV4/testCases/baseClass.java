@@ -6,6 +6,7 @@ import java.io.IOException;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -18,11 +19,12 @@ public class baseClass {
 
 	
 	public String baseURL="https://portal.test.cts.cdr.gov.au/";
-	public String username="naggi202202@outlook.com";
-	public String password="SAIkuteera7-1";
+	public String username="ABC@outlook.com";
+	public String password="XXXX";
 	public String sector="Energy";
+	public String ConfromanceId = "85d27119-2919-42fd-8523-cf86fb75c0f7";
 	
-	public WebDriver driver;
+	public static WebDriver driver;
 	public Logger logger;
 	
 	@SuppressWarnings("deprecation")
@@ -48,7 +50,8 @@ public class baseClass {
 	@AfterTest
 	public void closeWindow()
 	{
-		driver.close();
+		//driver.close();
+		logger.info("Run Completed and closed ");
 	}
     
 		

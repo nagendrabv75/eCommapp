@@ -17,7 +17,7 @@ public class LoginPage {
 	}
 	
 	
-	@FindBy(xpath="//*[@id=\"i0116\"]")
+	@FindBy(id="i0116")
 	@CacheLookup
 	WebElement UserName;
 	
@@ -26,7 +26,7 @@ public class LoginPage {
 	WebElement Next;
 	
 	
-	@FindBy(xpath="//*[@id=\"i0118\"]")
+	@FindBy(xpath="/html/body/div/form[1]/div/div/div[2]/div[1]/div/div/div/div/div/div[3]/div/div[2]/div/div[3]/div/div[2]/input")
 	@CacheLookup
 	WebElement txtPassword;
 	
@@ -39,6 +39,10 @@ public class LoginPage {
 	@FindBy(xpath="//*[@id=\"idSIButton9\"]")
 	@CacheLookup
 	WebElement StaySignIn;
+	
+	@FindBy(id="continue")
+	@CacheLookup
+	WebElement continueLogin;
 	
 	@FindBy(xpath="/html/body/div/div/header/div/button")
 	@CacheLookup
@@ -85,6 +89,11 @@ public class LoginPage {
 	{
 		lnkLogout.click();
 	
+	}
+	
+	public void continueLogin()
+	{
+		continueLogin.click();
 	}
 
 }
